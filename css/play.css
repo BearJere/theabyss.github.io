@@ -45,6 +45,7 @@ header{
   background-color: #151515;
   box-sizing: border-box;
   width: 1200px;
+  height: 320px;
   margin: 0 auto;
   padding: 20px;
   border-top-left-radius: 5px;
