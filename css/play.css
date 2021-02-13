@@ -47,7 +47,7 @@ header{
   width: 900px;
   height: 500px;
   margin: auto;
-  padding: 150px;
+  padding: 20px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -60,7 +60,8 @@ header{
     width: 900px;
     height: 500px;
     margin: auto;
-    padding: 150px;
+    padding: 20px;
+    position: relative;
     letter-spacing: .1em;
     font-size: 24px;
     -webkit-font-smoothing: none;
