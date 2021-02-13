@@ -68,13 +68,13 @@ header{
     margin: auto;
     padding: 25px;
     margin: 2px;
-    position: absolute;
+    position: relative;
     top: 270px;
 }
 
 .contacts figure img {
-     width: 140px;
-     height: 140px;
+     width: 130px;
+     height: 130px;
 }
 
 figure img:hover {
