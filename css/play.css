@@ -45,8 +45,8 @@ header{
   background-color: #151515;
   box-sizing: border-box;
   width: 900px;
-  height: 600px;
-  margin: 0 auto;
+  height: 500px;
+  margin: auto;
   padding: 20px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -58,8 +58,8 @@ header{
     color:rgb(50,255,0);
     font-family:"VT323",monospace;
     width: 900px;
-    height: 600px;
-    margin: 0 auto;
+    height: 500px;
+    margin: auto;
     padding: 20px;
     letter-spacing: .1em;
     font-size: 24px;
