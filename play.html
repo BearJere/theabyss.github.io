@@ -21,16 +21,25 @@
                 <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
-
-            <div id="crt">
-                <textarea class="output"></textarea>
-                <div>
-                    <input class="command"/>
-                    <span>root@ABYSS </span>
-                    <span>$</span>&nbsp;
-                </div>
-
-            </div>
     </header>
+    <div class="crt">
+        <dialog class="crt" id="dialog">
+            <div id="content"></div>
+            <div class="btn-group crt">
+            </div>
+          </dialog>
+          <dialog class="crt" id="error" open><p class ="error">ERROR...</p></dialog>
+          <textarea class="output crt" id="demo"></textarea>
+          <div class="console" id="console">
+            <div class="command-input crt"><br/>
+              <div class="line"><span data-auth="data-auth">root@ABYSS </span></div>
+              <div class="line"><span>$</span>&nbsp;
+                <input id="command-line" class="command crt" data-input="data-input" onkeydown="processInput()"/>
+              </div>
+              
+            </div>
+            
+          </div>
+    </div>
 </body>
 </html>
