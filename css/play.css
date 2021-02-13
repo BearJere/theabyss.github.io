@@ -46,9 +46,10 @@ header{
   box-sizing: border-box;
   width: 900px;
   height: 500px;
-  margin-top: 100px;
+  margin-top: 85px;
   margin: auto;
   padding: 20px;
+  position: relative;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -60,7 +61,7 @@ header{
     font-family:"VT323",monospace;
     width: 900px;
     height: 500px;
-    margin-top: 50px;
+    margin-top: 85px;
     margin: auto;
     padding: 20px;
     letter-spacing: .1em;
