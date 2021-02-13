@@ -42,7 +42,8 @@ header{
     height: auto;
 }
 .about-abyss{
-    position: absolute;
+    position: relative;
+    top: 400px;
     width: 600px;
     height: 300px;
     margin: 20% 30%;
