@@ -68,26 +68,3 @@ header{
     background: #fff;
     color: #333;
 }
-.about-abyss{
-    position: absolute;
-    width: 600px;
-    height: 300px;
-    margin: 20% 30%;
-    text-align: center;
-}
-.about-abyss h1{
-    text-align: center;
-    color: #fff;
-    text-transform: uppercase;
-    font-size: 60px;
-}
-.about-abyss p{
-    border: 1px solid #fff;
-    padding: 10px 25px;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 14px;
-    margin-top: 20px;
-    display: inline-block;
-    color: #fff;
-}
