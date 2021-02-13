@@ -76,3 +76,7 @@ header{
 	width: 75px;
 	height: 75px;
 }
+
+figure img:hover {
+    filter: brightness(0.7);
+}
