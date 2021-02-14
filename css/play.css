@@ -46,6 +46,7 @@ header{
     margin: auto;
 }
 .console {
+  border-radius: 10px;
   height: 500px;
   width: 300px;
   background-color: #555;
