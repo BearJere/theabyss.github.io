@@ -42,8 +42,8 @@ header{
     height: auto;
 }
 .console {
-  height: 50px;
-  width: 100px;
+  height: 500px;
+  width: 300px;
   background-color: #555;
   position: absolute;
   top: 50%;
