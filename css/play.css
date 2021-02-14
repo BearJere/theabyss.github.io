@@ -41,3 +41,8 @@ header{
     float: left;
     height: auto;
 }
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
