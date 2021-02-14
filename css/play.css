@@ -41,10 +41,6 @@ header{
     float: left;
     height: auto;
 }
-.container {
-    width: 750px;
-    margin: auto;
-}
 .console {
   border-radius: 10px;
   height: 500px;
