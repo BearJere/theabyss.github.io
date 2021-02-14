@@ -41,7 +41,7 @@ header{
     float: left;
     height: auto;
 }
-.rectangle {
+.console {
   height: 50px;
   width: 100px;
   background-color: #555;
