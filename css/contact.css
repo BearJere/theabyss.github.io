@@ -41,14 +41,14 @@ header{
     float: left;
     height: auto;
 }
-.contacts{
+.contact-abyss{
     position: absolute;
     width: 600px;
     height: 300px;
     margin: 20% 30%;
     text-align: center;
 }
-.contacts h1{
+.contact-abyss h1{
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -60,8 +60,9 @@ header{
     margin: auto;
     padding: 25px;
     margin: 2px;
-    position: relative;
-    top: 270px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 .contacts figure img {
      width: 125px;
