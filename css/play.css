@@ -48,6 +48,7 @@ header{
     width: 860px;
     padding: 12px;
     background-color: #202020;
+    color: lightgray;
     position: absolute;
     font-family: 'Inconsolata', monospace;
     line-height: 1.2;
