@@ -70,12 +70,6 @@ header{
     border: none;
     display: inline-block;
 }
-.console .console-input:after {
-    content: "■";
-    animation: cursor 1s infinite;
-    animation-timing-function: step-end;
-    margin-left: 1px;
-}
 .console p{
     margin: 0;
     padding: 0;
