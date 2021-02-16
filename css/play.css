@@ -75,6 +75,16 @@ header{
     padding: 0;
     line-height: 1.2;
 }
+.console ul {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    list-style-type: none;
+    padding-left: 2em;
+  }
 .console .console-prompt {
     color: cyan;
 }
+.console strong {
+    font-weight: normal;
+    color: white;
+  }
