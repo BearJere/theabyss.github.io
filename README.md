@@ -8,3 +8,4 @@ The website for the text-based game ABYSS. Created by BearJere and Wumqus.
 * Create actual logo (Pac-Man is temporary)
 * Create actual "console" and game
 * For contacts, translate youtube logo downwards relative to h1, looks off currently
+* Add savestates
