@@ -55,7 +55,6 @@ header{
     font-size: 60px;
 }
 .contacts {
-    padding: 8%;
     clear: both;
     text-align: center;
     margin-left: auto;
@@ -68,7 +67,7 @@ header{
     padding: 25px;
     margin: 2px;
     position: relative;
-    top: 270px;
+    top: 245px;
 }
 .contacts figure img {
 	width: 140px;
