@@ -69,8 +69,11 @@ header{
     display: inline-block;
     width: auto;
     margin: auto;
-    position: relative;
-    margin-top: -250px;
+    padding: 25px;
+    margin: 2px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 
 .contacts figure img {
