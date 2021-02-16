@@ -66,10 +66,8 @@ header{
     display: inline-block;
     width: auto;
     margin: auto;
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    transform: translate(-75%, -50%) /* Adjust percents */
+    position: relative;
+    margin-top: -75px;
 }
 
 .contacts figure img {
