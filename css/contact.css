@@ -67,7 +67,7 @@ header{
     width: auto;
     margin: auto;
     position: absolute;
-    top: 50%;
+    top: 75%;
     left: 50%;
     transform: translate(-75%, -50%) /* Adjust percents */
 }
