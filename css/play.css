@@ -42,12 +42,18 @@ header{
     height: auto;
 }
 .console {
+    box-sizing: border-box;
     border-radius: 9px;
     height: 500px;
     width: 860px;
+    padding: 12px;
     background-color: #202020;
     position: absolute;
     font-family: 'Inconsolata', monospace;
+    line-height: 1.2;
+    overflow-y: auto;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) /* Centers console */
